@@ -52,3 +52,18 @@ If you'd like, I can:
 - Commit these updated files to a new branch and open a PR.
 - Reformat the changelog to follow Keep a Changelog (keepachangelog.com) strictly.
 - Add a release checklist or a GitHub Actions workflow to auto-generate changelog entries from PR titles.
+
+## [2.0.0] - 2025-10-22
+Initial stable release
+- Core features implemented:
+  - Add, view, and remove menu items
+  - Course categories: Starter, Main, Dessert
+  - Filtering by course
+  - Real-time statistics (counts and average prices)
+  - Pull-to-refresh and confirmation dialogs
+- Supabase integration for persistent storage
+- Sample data button for quick demos
+- TypeScript with React Context for state management
+- Basic error handling and loading/empty states
+
+---
