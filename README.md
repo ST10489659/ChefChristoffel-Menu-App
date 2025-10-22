@@ -1,7 +1,8 @@
 # Christoffel's Menu Management App
 
 Repository: https://github.com/ST10489659/ChefChristoffel-Menu-App  
-YouTube Link: <INSERT_YOUTUBE_VIDEO_URL_HERE>
+YouTube Link: [<INSERT_YOUTUBE_VIDEO_URL_HERE>](https://youtu.be/aDhuqBPyqWI?si=LkeVlW7Bz1b5L9EO)
+
 
 A professional mobile application for Chef Christoffel's private chef services, built with React Native and Expo. This app enables dynamic menu management so the chef can create, view, filter, and manage menu items across courses with real‑time statistics and a clean mobile UI.
 
